@@ -12,4 +12,4 @@ print("Hello, Welcome to python\n\tWhat's your name\t?")
 fav_language = "  Python  "
 print(fav_language.rstrip())
 print(fav_language.lstrip(),end='')
-print(fav_language.strip())
+print(fav_language.strip()) 
