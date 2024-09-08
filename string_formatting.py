@@ -6,6 +6,7 @@ print(name)
 print(name.upper())
 print(name.lower())
 message = f"Hello! {name.lower()}"
+print("Hello!",name.lower())
 print(message)
 print("Hello, Welcome to python\n\tWhat's your name\t?")
 
