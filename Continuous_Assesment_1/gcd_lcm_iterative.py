@@ -11,7 +11,7 @@ i = 1
 while (i<=int1 and i<=int2):
     if (int1%i == 0 and int2%i == 0):
         gcd = i
-    i += 1
+    i += 1  
 print("The two numbers are: ",int1," and",int2)
 print("GCD: ",gcd)
 
