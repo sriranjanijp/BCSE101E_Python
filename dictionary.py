@@ -1,3 +1,4 @@
+import random
 # Add a key-value pair to the dictionary
 def addKeyValue(d, key, value):
     d[key] = value
