@@ -24,4 +24,4 @@ for i in range(n):
 for a in c:
     for d in a:
         print(f"{d:^6}",end='')
-    print()
+    print( )
