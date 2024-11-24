@@ -1,3 +1,3 @@
-from datetime import datetime
-now = datetime.now()
-print(now)
+lista = ['q','w','e']
+lista.remove('e')
+print (lista)
