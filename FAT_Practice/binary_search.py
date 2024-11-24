@@ -10,7 +10,7 @@ while low<=high:
     elif listin[mid]>e:
         high = mid-1
     else:
-        print(f"Element found at index {mid}")
+        print(f"Element found at index - {mid}")
         c = 1
         break
 if c==0:
