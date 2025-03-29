@@ -18,7 +18,7 @@ t = Template("""
 c
 c     This subroutine has to be replaced with proper Ac and Eg values
 c     for other C2v molecules.
-c     These data are for the Pyridazine molecule with up to J=5(AXX= 0.262150E-04  BYY= 0.250400E-04  CZZ= 0.128070E-04)
+c     These data are for the Pyridazine molecule with up to J=5(AXX= $axx  BYY= $byy  CZZ= $czz)
 c     The energies eg(i) are in the units of eV.
 c
       DIMENSION eg(11) , ac(11,6,2) , itau(11) , ntau(11)
